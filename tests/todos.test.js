@@ -1,5 +1,5 @@
-import { test, expect } from '@playwright/test';
+import { test, expect } from "@playwright/test";
 
 test("Practice test should pass", async ({ page }) => {
-    await page.goto('http://localhost:3000');
-})
+  await page.goto("http://localhost:3000");
+});
