@@ -4,10 +4,11 @@
 - Add BD URL and PORT to .env file, at the end of the URL add "?ssl=true"✅
 - npm install✅
 - reset DB✅
-- run the app
-- install playwright (check details)
-- add an NPM script to run playwright
-- write a simple test
-- try the test
-- add the "got to page" to the test
-- check if works
+- run the app✅
+- install playwright (check details)✅
+- add an NPM script to run playwright✅
+- write a simple test✅
+- try the test✅
+- add the "got to page" to the test✅
+- check if works✅
+- 
